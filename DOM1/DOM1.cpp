@@ -32,6 +32,7 @@ int main() {
     string result = multiplyStrings(num1, num2);
 
     cout << "Result of multiplication: " << result << endl;
-
+    cout << "ПОСТАВЬТЕ 5" << endl;
+    
     return 0;
 }
